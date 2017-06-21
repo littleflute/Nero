@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Circles.mp3";		
+f[2]	= "02 The Thrill.mp3";		
+f[3]	= "03 It Comes and It Goes.mp3";		
+f[4]	= "04 Two Minds.mp3";		
+f[5]	= "05 What Does Love Mean.mp3";		
+f[6]	= "06 Between II Worlds.mp3";		
+f[7]	= "07 Into the Night.mp3";		
+f[8]	= "08 Satisfy.mp3";		
+f[9]	= "09 Dark Skies.mp3";		
+f[10]	= "10 Into the Past (Reboot).mp3";		
+f[11]	= "11 Tonight.mp3";		
+f[12]	= "12 Wasted.mp3";		
